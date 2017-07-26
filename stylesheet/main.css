@@ -1,0 +1,51 @@
+body{
+  background: #aaa;
+}
+h1{
+  font-style: times;
+  font-size: 21px;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 400px;
+}
+h2{
+  font-style: times;
+  font-size: 30px;
+  position: absolute;
+  padding: 50px;
+  margin-top: 20px;
+  text-align: center;
+}
+h5{
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 550px;
+}
+.first{
+  height: 200px;
+  width: 1080px;
+  margin: 0 auto;
+  background-color: rgba(226, 45, 27, 0.97);
+  color: white;
+}
+.second{
+  height: 200px;
+  width: 1080px;
+  margin: 0 auto;
+  background-color: rgba(251, 251, 251, 1);
+  color: black;
+}
+.third{
+  height: 200px;
+  width: 1080px;
+  margin: 0 auto;
+  background-color: rgb(9, 157, 46);
+  color: white;
+}
+footer{
+  width: auto;
+  height: 50px;
+  background: black;
+  color: white
+}
